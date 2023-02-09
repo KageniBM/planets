@@ -2,5 +2,5 @@
 Cold and dry but everything is red.
 The two moons maybe a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
-We added a different lime in the other copy
- 
+We resolved the conflict on this line
+
